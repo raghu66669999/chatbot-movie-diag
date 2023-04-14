@@ -1,0 +1,11 @@
+nltk
+Punkt
+matplotlib
+numpy
+pandas
+re
+tensorflow
+keras
+flask
+random
+pickle
