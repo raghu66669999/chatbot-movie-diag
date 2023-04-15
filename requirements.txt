@@ -6,4 +6,3 @@ pandas
 tensorflow
 keras
 flask
-random
