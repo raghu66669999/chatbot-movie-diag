@@ -8,8 +8,6 @@ from keras.layers import Input, Embedding, LSTM, TimeDistributed, Dense, Bidirec
 from keras.models import Model, load_model
 from keras.layers import SimpleRNN
 from keras.layers import Activation, dot, concatenate
-from fastapi import FastAPI, Form
-from starlette.responses import HTMLResponse
 from flask import Flask, render_template, request, jsonify
 import random
 import pickle
